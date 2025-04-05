@@ -1,0 +1,45 @@
+/started
+/logs
+/data
+/aug_data
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+facedetection/
+
+# IDE-specific files
+.vscode/
+.idea/
+.virtual_documents/
+
+# Anaconda-specific files
+anaconda_projects/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook outputs
+*.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# IPython history
+.ipython/
