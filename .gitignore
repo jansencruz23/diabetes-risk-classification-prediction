@@ -3,6 +3,8 @@
 /data
 /aug_data
 
+diabetesrisk.sql
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
